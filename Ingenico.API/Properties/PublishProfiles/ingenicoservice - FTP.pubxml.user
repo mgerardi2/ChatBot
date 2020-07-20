@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAjx9sz8JEBk6bPPQVTYgwogAAAAACAAAAAAAQZgAAAAEAACAAAADECwtWtKt4Gpc6sJ6Ez70wENh4ojXVNA4I5YrDNOpGJwAAAAAOgAAAAAIAACAAAADltfSa6Q5ijK6FcG7YNqxAFWGuLRXOcy2mDjgoAouKqoAAAAAcMTO4ANH57t1bp5gr1FxtJZrSauSDi2fMFOcw1VMn/u/76oCRII2d8Vuntd/hsrEygo3rkMZe9DZ0hKiOepx9UXOm3Isro1mzX/Ftf8+PZkWpg9JJnfTa+C5tcBso1Z85LPTpHr9311BcSDUgN7oRIZs6mP3euu/vMxC2v5tgJkAAAADy5lk9UmjspECEJzl8A6NEMpIfBK59/idAOj3qWrWDdWfJhBoa8f6r2cMMEQ5mf7SwSNcHFKVeLO1NE7kcsmRI</EncryptedPassword>
+    <_PublishTargetUrl>ftp://waws-prod-am2-261.ftp.azurewebsites.windows.net/site/wwwroot</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>07/20/2020 10:18:56</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>07/20/2020 10:18:56</publishTime>
+    </File>
+    <File Include="Ingenico.API.deps.json">
+      <publishTime>07/20/2020 10:24:30</publishTime>
+    </File>
+    <File Include="Ingenico.API.dll">
+      <publishTime>07/20/2020 10:24:30</publishTime>
+    </File>
+    <File Include="Ingenico.API.exe">
+      <publishTime>07/20/2020 10:24:30</publishTime>
+    </File>
+    <File Include="Ingenico.API.pdb">
+      <publishTime>07/20/2020 10:24:30</publishTime>
+    </File>
+    <File Include="Ingenico.API.runtimeconfig.json">
+      <publishTime>07/20/2020 10:24:31</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>07/20/2020 10:24:33</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
